@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab 9</string>
+    <string name="enter_an_integer">Enter an integer</string>
+    <string name="number1">Number 1</string>
+    <string name="enter_another_integer">Enter another integer</string>
+    <string name="number2">Number 2</string>
+    <string name="generate_JSON">Generate JSON</string>
+    <string name="calculate">Calculate</string>
+
+</resources>

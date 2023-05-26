@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="welcome">Welcome!</string>
+
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="back">Back</string>
+
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>

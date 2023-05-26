@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:id="@+id/navFruits"
+            android:icon="@drawable/ic_baseline_shopping_cart_24"
+            android:title="@string/fruits"/>
+
+        <item android:id="@+id/navVeggies"
+            android:icon="@drawable/ic_baseline_shopping_cart_24"
+            android:title="@string/veggies"/>
+
+        <item android:id="@+id/navSeafood"
+            android:icon="@drawable/ic_baseline_shopping_cart_24"
+            android:title="@string/seafood"/>
+    </group>
+</menu>

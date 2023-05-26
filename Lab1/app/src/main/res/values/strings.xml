@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab 1</string>
+    <string name="welcome">Hello World!</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="show_message">Show Message</string>
+    <string name="message_error">You must enter a name.</string>
+</resources>

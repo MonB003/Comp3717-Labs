@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Lab 7</string>
+
+    <string name="fruits">Fruits</string>
+    <string name="veggies">Veggies</string>
+    <string name="seafood">Seafood</string>
+
+    <string name="image">Image</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+
+    <string name="header_title">COMP 3717 Supermarket</string>
+
+
+    <string-array name="fruitNames">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Grapes</item>
+        <item>Kiwifruit</item>
+        <item>Orange</item>
+        <item>Pineapple</item>
+        <item>Strawberry</item>
+        <item>Watermelon</item>
+    </string-array>
+
+    <string-array name="veggieNames">
+        <item>Cabbage</item>
+        <item>Carrot</item>
+        <item>Cauliflower</item>
+        <item>Lettuce</item>
+        <item>Mushroom</item>
+        <item>Onion</item>
+        <item>Spinach</item>
+        <item>Tomatoes</item>
+    </string-array>
+
+    <string-array name="seafoodNames">
+        <item>Clam</item>
+        <item>Crab</item>
+        <item>Fillet</item>
+        <item>Mussel</item>
+        <item>Salmon</item>
+        <item>Shrimp</item>
+        <item>Squid</item>
+    </string-array>
+
+
+    <string-array name="fruitPrices">
+        <item>2.00</item>
+        <item>3.00</item>
+        <item>2.00</item>
+        <item>3.00</item>
+        <item>2.00</item>
+        <item>3.00</item>
+        <item>2.00</item>
+        <item>3.00</item>
+    </string-array>
+
+    <string-array name="veggiePrices">
+        <item>4.00</item>
+        <item>5.00</item>
+        <item>4.00</item>
+        <item>5.00</item>
+        <item>4.00</item>
+        <item>5.00</item>
+        <item>4.00</item>
+        <item>5.00</item>
+    </string-array>
+
+    <string-array name="seafoodPrices">
+        <item>6.00</item>
+        <item>7.00</item>
+        <item>6.00</item>
+        <item>7.00</item>
+        <item>6.00</item>
+        <item>7.00</item>
+        <item>6.00</item>
+        <item>7.00</item>
+    </string-array>
+
+
+    <string name="navigationDrawerOpen">Open navigation drawer</string>
+    <string name="navigationDrawerClose">Close navigation drawer</string>
+</resources>

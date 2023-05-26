@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">First Android App</string>
+    <string name="hello">I adore Android!</string>
+    <string name="btnToggle">Toggle between uppercase &amp; lowercase</string>
+    <string-array name="seasons">
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Fall</item>
+        <item>Winter</item>
+    </string-array>
+</resources>
