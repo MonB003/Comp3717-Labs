@@ -20,8 +20,7 @@
 ## <a id="how-to-run-project">How to run the project</a>
 ### Prerequisites:
 - Have a Git and GitHub account
-- Have Visual Studio Code or another coding editor
-- Have [Android Studio](https://developer.android.com/studio)
+- Have [Android Studio](https://developer.android.com/studio) or another coding editor
 
 ### Configuration instructions:
 
